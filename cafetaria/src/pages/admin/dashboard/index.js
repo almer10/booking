@@ -30,7 +30,6 @@ export default function Dashboard() {
               <th className="border border-slate-300 ...">Nama</th>
               <th className="border border-slate-300 ...">Telepon</th>
               <th className="border border-slate-300 ...">Email</th>
-              <th className="border border-slate-300 ...">Actions</th>
             </tr>
           </thead>
           <tbody>
