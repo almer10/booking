@@ -1,5 +1,8 @@
 # Cafetaria
-Membuat pemesenan makan malam
+Aplikasi pemesenan makan malam 
+
+# Framework
+Next JS
 
 # Screenshot
 Halaman Utama
